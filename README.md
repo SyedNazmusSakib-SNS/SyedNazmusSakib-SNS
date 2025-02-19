@@ -1,41 +1,44 @@
-## Hi there 👋
-
-
 <!-- Header -->
-# Hi there, I'm **[Syed Nazmus Sakib]** 👋
+# Hi there, I'm Syed Nazmus Sakib a passionate Learner and Research Enthusiast. 👋
 
 <!-- About Me -->
 ## About Me
-I'm a passionate **[Your Role, e.g., Software Developer]** from **[Your Location]**.
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m learning **[New Skill or Technology]**
-- 💬 Ask me about **[Topics you love]**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: **[A fun fact about you]**
+I'm currently studying at Robotics and zmechatronics Engineering Delartment, University of Dhaka and working as a **Research Intern** at **CARS (Centre for Advanced Research in Sciences)** and as a **Research and Development Engineer** at **Tech Topia**. I also have the privilege of leading **The Automation of X Rover Team**. My work spans across multiple research projects, competitions, and hackathons, and I am proud to be recognized as a **Kaggle Expert**.
 
-<!-- Skills and Technologies -->
-## Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-<!-- Add more badges as needed -->
+<!-- Current Roles & Projects -->
+## Current Roles & Projects
+- **Research Intern** at **CARS (Centre for Advanced Research in Sciences)**
+- **Research and Development Engineer** at **Tech Topia**
+- **Team Lead** for **The Automation of X Rover Team**
 
-<!-- Projects -->
-## Projects
-- [**Project One**](https://github.com/yourusername/project-one)  
-  A brief description of what this project does and why it’s cool.
-- [**Project Two**](https://github.com/yourusername/project-two)  
-  A brief description of what this project does and why it’s cool.
+### Research Projects
+1. **Human Detection on Disaster Scenarios**  
+   *Under the guidance of Dr. Mehedi Hassan Sir*
+2. **Sugarcane Leaf Diseases Prediction**  
+   *Under the guidance of Shifat E Arman Sir*
+3. **Drone Based Climate Mitigation**  
+   *Under the guidance of Dr. Shamim Ahmed Deowan Sir*
 
-<!-- GitHub Stats -->
-## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### Upcoming or Current Competitions
+- **MIT Solve**
+- **AI Hackathon 2025**
+- **MIST Hackathon**
+- **WSDM Cup - Multilingual Chatbot Arena**
 
-<!-- Trophy Section -->
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Awards & Achievements -->
+## Awards & Achievements
+- **Regional Champion** of **NHSPC 2019**
+- Achieved **National 16th** position in a competitive arena
+- **Runner-up** at **KUET Datathon 2025**
+- **Runner-up** at **Technocrats V2 IUBAT Hackathon 2024**
+- **Global Nominee** of the **NASA Space Apps Challenge 2024**
 
-<!-- Connect -->
+<!-- Kaggle -->
+## Kaggle
+- Proudly recognized as a **Kaggle Expert**
+
+<!-- Connect with Me -->
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
+- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- LinkedIn: [Your LinkedIn Profile](#)
+- Twitter: [Your Twitter Profile](#)
