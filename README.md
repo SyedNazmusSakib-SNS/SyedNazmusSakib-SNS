@@ -1,88 +1,110 @@
-<!-- Header -->
-<h1 align="center">Hi there, I'm Syed Nazmus Sakib 👋</h1>
-<h3 align="center">A Passionate Learner and Research Enthusiast</h3>
-
-<!-- About Me -->
-## About Me
-I'm currently studying at the **Robotics and Mechatronics Engineering Department, University of Dhaka** and working as a **Research Intern at CARS (Centre for Advanced Research in Sciences)**, as well as a **Research and Development Engineer at Tech Topia**. I also have the privilege of leading **The Automation of X Rover Team**. My work spans across multiple research projects, competitions, and hackathons, and I am proud to be recognized as a **Kaggle Expert**.
-
----
-
-<!-- Current Roles & Projects -->
-## 🚀 Current Roles & Projects
-- **Research Intern** at **CARS (Centre for Advanced Research in Sciences)**
-- **Research and Development Engineer** at **Tech Topia**
-- **Team Lead** for **The Automation of X Rover Team**
-
----
-
-<!-- Research Projects -->
-## 🔬 Research Projects
-1. **Human Detection on Disaster Scenarios**  
-   *Under the guidance of Dr. Mehedi Hassan Sir*
-2. **Sugarcane Leaf Diseases Prediction**  
-   *Under the guidance of Shifat E Arman Sir*
-3. **Drone Based Climate Mitigation**  
-   *Under the guidance of Dr. Shamim Ahmed Deowan Sir*
-
----
-
-<!-- Competitions -->
-## 🏆 Upcoming / Current Competitions
-- **MIT Solve**
-- **AI Hackathon 2025**
-- **MIST Hackathon**
-- **WSDM Cup - Multilingual Chatbot Arena**
-
----
-
-<!-- Awards & Achievements -->
-## 🥇 Awards & Achievements
-- 🏆 **Regional Champion** of **NHSPC 2019**
-- 🎖 Achieved **National 16th position** in a competitive arena
-- 🥈 **Runner-up** at **KUET Datathon 2025**
-- 🥈 **Runner-up** at **Technocrats V2 IUBAT Hackathon 2024**
-- 🌍 **Global Nominee** of the **NASA Space Apps Challenge 2024**
-
----
-
-<!-- Kaggle -->
-## 🖥️ Kaggle
-- Proudly recognized as a **Kaggle Expert**
-
----
-
-<!-- Visualizations -->
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedNazmusSakib-SNS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNazmusSakib-SNS&layout=compact&theme=radical" alt="Top Languages" />
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Nazmus%20Sakib&fontSize=50&animation=fadeIn&fontAlignY=35)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Robotics+and+Mechatronics+Engineer;Research+Enthusiast;Kaggle+Expert;Innovation+Driver)](https://git.io/typing-svg)
 </div>
 
-## 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SyedNazmusSakib-SNS&theme=onedark" alt="GitHub Trophies">
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
-## 👀 Profile Views
+# 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I'm a passionate researcher and engineer at the **Robotics and Mechatronics Engineering Department, University of Dhaka**. Currently working on multiple fronts:
+
+🔬 **Research Intern** at CARS (Centre for Advanced Research in Sciences)  
+🛠️ **R&D Engineer** at Tech Topia  
+🚀 **Team Lead** of The Automation of X Rover Team  
+📊 **Kaggle Expert** with a focus on AI and ML
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedNazmusSakib-SNS&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
----
+# 🔬 Research Projects
 
-<!-- Connect with Me -->
-## 🔗 Connect with Me
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/api/placeholder/64/64" width="64px" height="64px" alt="Project 1"/>
+      <br />
+      <b>Human Detection in Disaster Scenarios</b>
+      <br />
+      <i>With Dr. Mehedi Hassan</i>
+    </td>
+    <td align="center">
+      <img src="/api/placeholder/64/64" width="64px" height="64px" alt="Project 2"/>
+      <br />
+      <b>Sugarcane Leaf Disease Prediction</b>
+      <br />
+      <i>With Shifat E Arman</i>
+    </td>
+    <td align="center">
+      <img src="/api/placeholder/64/64" width="64px" height="64px" alt="Project 3"/>
+      <br />
+      <b>Drone Based Climate Mitigation</b>
+      <br />
+      <i>With Dr. Shamim Ahmed Deowan</i>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://github.com/SyedNazmusSakib-SNS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+# 🏆 Competitions & Achievements
+
+<div align="center">
+
+```mermaid
+timeline
+  title Major Achievements Timeline
+  2019 : Regional Champion NHSPC
+  2024 : Runner-up Technocrats V2 IUBAT Hackathon
+       : NASA Space Apps Challenge Global Nominee
+  2025 : Runner-up KUET Datathon
+       : MIT Solve (Upcoming)
+       : AI Hackathon 2025 (Current)
+```
+
+</div>
+
+## 🎯 Upcoming Competitions
+- 🌟 **MIT Solve**
+- 🤖 **AI Hackathon 2025**
+- 💻 **MIST Hackathon**
+- 🌐 **WSDM Cup - Multilingual Chatbot Arena**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedNazmusSakib-SNS&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNazmusSakib-SNS&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedNazmusSakib-SNS&theme=tokyonight&row=1&column=6" />
+</div>
+
+# 🔗 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedNazmusSakib-SNS)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+  
+  <img src="https://komarev.com/ghpvc/?username=SyedNazmusSakib-SNS&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
