@@ -75,7 +75,6 @@ timeline
 
 ## 🎯 Upcoming Competitions
 - 🌟 **MIT Solve**
-- 🤖 **AI Hackathon 2025**
 - 💻 **MIST Hackathon**
 - 🌐 **WSDM Cup - Multilingual Chatbot Arena**
 
