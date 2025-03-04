@@ -2,7 +2,7 @@
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Nazmus%20Sakib&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Robotics+and+Mechatronics+Engineer;Research+Enthusiast;Kaggle+Expert;Innovation+Driver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Robotics+and+Mechatronics+Engineer;Research+Enthusiast;Kaggle+Expert)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
