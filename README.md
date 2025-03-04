@@ -67,8 +67,7 @@ timeline
   2024 : Runner-up Technocrats V2 IUBAT Hackathon
        : NASA Space Apps Challenge Global Nominee
   2025 : Runner-up KUET Datathon
-       : MIT Solve (Upcoming)
-       : AI Hackathon 2025 (Current)
+
 ```
 
 </div>
