@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a passionate researcher and engineer at the **Robotics and Mechatronics Engineering Department, University of Dhaka**. Currently working on multiple fronts:
+I'm a passionate researcher and student at the **Robotics and Mechatronics Engineering Department, University of Dhaka**. Currently working on multiple fronts:
 
 🔬 **Research Intern** at CARS (Centre for Advanced Research in Sciences)  
 🛠️ **R&D Engineer** at Tech Topia  
