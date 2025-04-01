@@ -1,7 +1,6 @@
 <div align="center">
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Nazmus%20Sakib&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-  [![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Robotics+Mechatronics+Engineering;Research+Enthusiast;Kaggle+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Robotics+Mechatronics+Engineering;Research+Enthusiast;Kaggle+Expert)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
