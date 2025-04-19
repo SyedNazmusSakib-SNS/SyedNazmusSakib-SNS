@@ -10,6 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 I'm a passionate researcher and student at the **Robotics and Mechatronics Engineering Department, University of Dhaka**. Currently working on multiple fronts:  
 
+- **Undergrad** at **Robotics and Mechatronics Engineering**, <span>DU</span>
 - 🔬 **Research Intern** at **Data and Design Lab, CARS (Centre for Advanced Research in Sciences)**  
 - 🛠️ **R&D Engineer** at **Tech Topia**  
 - 🚀 **Team Lead** of **The Automation of X Rover Team**  
