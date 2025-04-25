@@ -21,7 +21,6 @@ I'm a passionate researcher and student deeply immersed in the world of **Roboti
 -   🛠️ **R&D Engineer** at **Tech Topia**
 -   🚀 **Team Lead** of **The Automation of X Rover Team**
 -   📊 **Kaggle Expert** & Active Competitor in **Kaggle Competitions**
--   📦 Creator of **[EDAPipeline](https://pypi.org/project/EDAPipeline/)**, a Python package designed to automate Exploratory Data Analysis tasks.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
