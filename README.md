@@ -19,7 +19,6 @@ I'm a passionate researcher and student deeply immersed in the world of **Roboti
 -   🎓 **Undergrad** at **Robotics and Mechatronics Engineering**, <span>DU</span>
 -   🔬 **Research Intern** at **Data and Design Lab, CARS (Centre for Advanced Research in Sciences)**
 -   🛠️ **R&D Engineer** at **Tech Topia**
--   🚀 **Team Lead** of **The Automation of X Rover Team**
 -   📊 **Kaggle Expert** & Active Competitor in **Kaggle Competitions**
 
 <div align="center">
