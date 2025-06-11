@@ -125,7 +125,7 @@ I'm a passionate researcher and student deeply immersed in the world of **Roboti
       <br />
       <b>🌿 Sugarcane Leaf Disease Prediction</b>
       <br />
-      <i>Collaboration: Shifat E Arman</i>
+      <i>Advisor: Shifat E Arman</i>
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ I'm a passionate researcher and student deeply immersed in the world of **Roboti
        <br />
       <b>🌍 Geological Search Project</b>
       <br />
-      <i>Collaboration: Geology Dept, Dr. Ashraful Islam Hemel, Shifat e Arman</i>
+      <i>Collaboration with Geology Dept, Dr. Ashraful Islam Hemel, Shifat E Arman</i>
     </td>
      <td align="center" valign="top">
        <br />
